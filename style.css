@@ -1,0 +1,67 @@
+body {background-color: white}
+
+.carre {
+    width: 80vw;
+    height: 88vh;
+    padding: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8DABCC;
+}
+
+.container {display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    gap: 20px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.square1 {
+    width: 27vw;
+    height: 27vh;
+    background-color: whitesmoke;
+    border-radius: 1pc;
+}
+.square2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 27vw;
+    height: 27vh;
+    background-color: #5588be;
+    border-radius: 1pc;
+    transition: all 0s linear;
+    }
+
+.police {font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 500;
+font-size: larger;
+font-weight: bold;
+color: #bfcad6;
+}
+
+
+.footer {
+    text-align: center;
+    font-size: x-small;
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.square2:hover {
+    background-color: #bfcad6;
+    color: #5588be;
+    transform: rotate(360deg);
+    transition: transform 0.8s ease-in;
+}
+
+@media (max-width: 800px) {
+    .carre {background-color: #bfcad6;}
+    .police {font-size: small}
+    .container {margin-right: 1%;margin-left: 1%;}  
+}
+    
