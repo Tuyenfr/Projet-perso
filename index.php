@@ -6,7 +6,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <title>CV</title>
-        <link rel="stylesheet" href="style-index.css"
+        <link rel="stylesheet" href="style-index.css">
     </head>
 
     <body>
@@ -15,8 +15,9 @@
 
         <div class="container">
             <div class="square1"></div>
-            <div class="square2 police">
-                <p><a href="qui-suis-je.php">Qui suis-je ?</a></p></div>
+            <div class="square2">
+                <p><a href="qui-suis-je.php">Qui suis-je ?</a></p>
+            </div>
             <div class="square1"></div>
         </div>
         
