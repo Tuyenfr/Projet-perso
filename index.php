@@ -43,7 +43,7 @@
     </main>
 
     <div class="center">    
-    <footer class="footer">Copyright 2023 - THL Conseil</footer>
+    <footer>Copyright 2023 - THL Conseil</footer>
     </div>
 
     </body>

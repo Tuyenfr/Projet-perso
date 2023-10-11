@@ -83,7 +83,7 @@ a {
 
 /** FOOTER **/
 
-.footer {
+footer {
     position: fixed;
     bottom: 0;
     font-size: x-small;
