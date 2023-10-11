@@ -16,7 +16,7 @@
         <div class="container-header-sm">
             <div class="square1-header"></div>
             <div class="square2-header">
-                <p><a <?php 
+                <p><a class="police"<?php 
                 $page = $_SERVER['PHP_SELF'];
                 if (basename($page) == "qui-suis-je.php")
                     {echo "style='color: white'"; } ?>               
@@ -27,7 +27,7 @@
         
         <div class="container-header-md">
             <div class="square2-header"> 
-                <p><a <?php 
+                <p><a class="police"<?php 
                     $page = $_SERVER['PHP_SELF'];
                     if (basename($page) == "mon-parcours.php")
                         {echo "style='color: white'"; } ?>               
@@ -35,7 +35,7 @@
             </div>
             <div class="square1-header"></div>
             <div class="square2-header">
-                <p><a <?php 
+                <p><a class="police"<?php 
                         $page = $_SERVER['PHP_SELF'];
                         if (basename($page) == "mes-competences.php")
                             {echo "style='color: white'"; } ?>               
@@ -46,7 +46,7 @@
         <div class="container-header">
             <div class="square1-header"></div>
             <div class="square2-header"> 
-                <p><a <?php 
+                <p><a class="police"<?php 
                     $page = $_SERVER['PHP_SELF'];
                     if (basename($page) == "mon-portfolio.php")
                         {echo "style='color: white'"; } ?>               

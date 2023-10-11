@@ -1,12 +1,8 @@
-body {background-color: white}
-
-a {
-    text-decoration: none;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 14px;
-    font-weight: bold;
-    color: #bfcad6;
-    }
+body {
+    background-color: white;
+    height: 100%;
+    width: auto;
+}
 
 
 /** HEADER AUTRES PAGES **/
@@ -51,6 +47,7 @@ a {
     gap: 10px;
     margin-right: 10%;
     margin-left: 10%;
+    overflow: hidden;
 }
 
 .square1-header {
@@ -70,6 +67,13 @@ a {
     transition: all 0s linear;
     }
 
+.police {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: #bfcad6;
+}
+
 .square2-header:hover {
     background-color: #bfcad6;
     color: #5588be;
@@ -79,7 +83,39 @@ a {
 .square2-header:hover a {
     color: #5588be;
 }
-    
+
+
+/** MAIN QUI SUIS-JE **/
+
+main {
+    width: 100%;
+}
+
+.photo {
+    height: 300px;
+    text-align: center;
+    padding-top: 2%;
+}
+
+img {
+    max-width: 380px;
+    max-height: 380px;
+}
+
+.situ {
+    background-color: rgba(27, 54, 160, 0.245);
+    height: 150px;
+    width: 400px;
+    border-radius: 50%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 570px;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
 
 /** FOOTER **/
 
@@ -98,6 +134,22 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+button {
+    width: 130px;
+    height: 30px;
+    border-radius: 40%;
+    color: white;
+    font-weight: 600;
+    background-color: #5588be;
+    border-color: rgb(214, 223, 231);
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    }
+
 
 /** RESPONSIVE **/
 
