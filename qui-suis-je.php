@@ -1,24 +1,57 @@
 <!DOCTYPE html>
-<html lang="fr">
+<meta lang="fr-FR"
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>CV</title>
+        <link rel="stylesheet" href="style-index.css">
+    </head>
 
-<head>
- <meta charset="UTF-8">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
- <link rel="stylesheet" href="style.css">
- <title>Qui Suis-Je ?</title>
-</head>
+    <body>
+    <header>
+    <section class="carre-header">
 
-<body>
- <header>
-  <nav>
-   <ul>
-    <li>Qui suis-je ?</li>
-    <li>Mon parcours</li>
-    <li>Mes compétences</li>
-    <li>Mon portfolio</li>
-   </ul>
-  </nav>
- </header>
+        <div class="container-header-sm">
+            <div class="square1-header"></div>
+            <div class="square2-header">
+                <p><a href="qui-suis-je.php">Qui suis-je ?</a></p>
+            </div>
+            <div class="square1-header"></div>
+        </div>
+        
+        <div class="container-header-md">
+            <div class="square2-header"> 
+                <p><a href="mon-parcours.php">Mon parcours</a></p>
+            </div>
+            <div class="square1-header"></div>
+            <div class="square2-header">
+                <p><a href="mes-competences.php">Mes compétences</a></p>
+            </div>
+        </div>
 
-</body>
+        <div class="container-header">
+            <div class="square1-header"></div>
+            <div class="square2-header"> 
+                <p><a href="mon-portfolio.php">Mon portfolio</a></p>
+            </div>
+            <div class="square1-header"></div>
+        </div>
+
+    </section>
+    </header>
+    <main>
+
+
+
+    
+    </main>
+
+    <div class="center">    
+    <footer class="footer">Copyright 2023 - THL Conseil</footer>
+    </div>
+
+    </body>
+
 </html>

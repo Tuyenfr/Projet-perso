@@ -1,14 +1,6 @@
 body {background-color: white}
 
-a {
-    text-decoration: none;
-    color: #bfcad6;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 500;
-    font-size: larger;
-    font-weight: bold;
-    }
-
+/** INDEX **/
 
 .carre {
     width: 80vw;
@@ -21,7 +13,8 @@ a {
     background-color: #8DABCC;
 }
 
-.container {display: flex;
+.container {
+    display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 10px;
@@ -47,12 +40,15 @@ a {
     transition: all 0s linear;
     }
 
-.police {font-family: Verdana, Geneva, Tahoma, sans-serif;
-font-weight: 500;
-font-size: larger;
-font-weight: bold;
-color: #bfcad6;
-}
+a {
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+    font-size: larger;
+    font-weight: bold;
+    color: #bfcad6;
+    }
+
 
 .square2:hover {
     background-color: #bfcad6;
@@ -67,17 +63,102 @@ color: #bfcad6;
     color: #5588be;
 }
 
-.footer {
-    text-align: center;
-    font-size: x-small;
-    margin-top: 5px;
-    font-family: Arial, Helvetica, sans-serif;
+/** HEADER AUTRES PAGES **/
+
+.carre-header {
+    width: 80vw;
+    height: 15vh;
+    padding: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #8DABCC;
+}
+
+.container-header-sm {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    gap: 10px;
+    margin-right: 20%;
+    margin-left: 20%;
 }
 
 
-@media (max-width: 800px) {
+.container-header-md {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    gap: 10px;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.container-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+    gap: 10px;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+.square1-header {
+    width: 27vw;
+    height: 4vh;
+    background-color: whitesmoke;
+    border-radius: 1pc;
+}
+.square2-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 27vw;
+    height: 4vh;
+    background-color: #5588be;
+    border-radius: 1pc;
+    transition: all 0s linear;
+    }
+
+.square2-header:hover {
+    background-color: #bfcad6;
+    color: #5588be;
+    transition: transform 0.8s ease-in;
+}
+    
+.square2-header:hover a {
+    color: #5588be;
+}
+    
+
+/** FOOTER **/
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    font-size: x-small;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+}
+
+/** RESPONSIVE **/
+
+
+@media (max-width: 1200px) {
     .carre {background-color: #bfcad6;}
-    .police {font-size: small}
+    a {font-size: x-small}
     .container {margin-right: 1%;margin-left: 1%;} 
 }
     
