@@ -49,6 +49,7 @@ a {
     color: #bfcad6;
     }
 
+p {text-align: center;}
 
 .square2:hover {
     background-color: #bfcad6;
@@ -86,10 +87,22 @@ footer {
 
 
 @media (max-width: 1200px) {
-    .carre {
-        background-color: #bfcad6;
-        height: 44vh;}
-    a {font-size: x-small}
-    .container {margin-right: 1%;margin-left: 1%;} 
+    a {font-size: large}
+    .container {margin-right: 1%;margin-left: 1%;}
+    footer {display: none;}
 }
-    
+
+@media (max-width: 500px) {
+    .carre {padding-top: 30%}
+    a {font-size: small}
+    .container {margin-right: 1%;margin-left: 1%;}
+    footer {display: none;}
+    .square1 {height: 14vh;}
+    .square2 {height: 14vh;}
+}
+
+@media (max-height: 400px) {
+    a {font-size: small}
+    .container {margin-right: 0%;height: 25%;}
+    footer {display: none;}
+}
