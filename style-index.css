@@ -86,7 +86,9 @@ footer {
 
 
 @media (max-width: 1200px) {
-    .carre {background-color: #bfcad6;}
+    .carre {
+        background-color: #bfcad6;
+        height: 44vh;}
     a {font-size: x-small}
     .container {margin-right: 1%;margin-left: 1%;} 
 }
