@@ -195,7 +195,6 @@ a {
     .container-photo {height: auto;width: 100%;padding-top: 1%;}
     .container-situ {height: auto;width: 100%;padding-top: 1%;}
     .situ {font-size: x-small;}
-    footer {display: none;}
 
 }
 
@@ -209,5 +208,4 @@ a {
     .container-photo {height: auto;width: 100%;padding-top: 1%;}
     .container-situ {height: auto;width: 100%;padding-top: 1%;}
     .situ {font-size: x-small;}
-    footer {display: none;}
 }
