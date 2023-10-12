@@ -175,7 +175,7 @@ a {
 
 
 @media (max-width: 860px) {
-    .police {font-size: x-small}
+    .police {font-size: 12px}
     main {display: block;}
     .carre-header {width: 80%;}
     .container-header-sm {margin-right: 15%;margin-left: 15%;}
@@ -186,8 +186,8 @@ a {
 }
     
 @media (max-width: 500px) {
-    .police {font-size: x-small}
-    main {display: block;}
+    .police {font-size: 10px}
+    main {display: block;margin: 0%;}
     .carre-header {width: 90%;}
     .container-header-sm {margin-right: 10%;margin-left: 10%;}
     .container-header-md {margin-right: 5%;margin-left: 5%;}
@@ -199,8 +199,8 @@ a {
 }
 
 @media (max-width: 460px) {
-    .police {font-size: 8px}
-    main {display: block;}
+    .police {font-size: 9px}
+    main {display: block; margin: 0%;}
     .carre-header {width: 100%;}
     .container-header-sm {margin-right: 0%;margin-left: 0%;}
     .container-header-md {margin-right: 0%;margin-left: 0%;}
