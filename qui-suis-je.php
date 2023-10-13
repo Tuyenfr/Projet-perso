@@ -1,5 +1,5 @@
 <?php
-require_once "header.php";
+require_once "header-autres.php";
 ?>
 
     <main class="flex">
