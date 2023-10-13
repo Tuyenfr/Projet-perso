@@ -214,7 +214,7 @@ require_once "header-autres.php";
         </div>
     </section>
 
-    <div class="lien-CV">CV complet via le lien ci-après : <a href="CV.pdf">CV</a></div>
+    <div class="lien-CV">CV complet via le lien ci-après : <a href="CV.pdf">lien</a></div>
     </main>
 
 <?php
