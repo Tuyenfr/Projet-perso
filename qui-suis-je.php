@@ -10,9 +10,12 @@ require_once "header-autres.php";
 
         <div class="container-situ">
             <div class="situ">
-                <p>Après plusieurs années en gestion administrative, je me suis lancée un nouveau défi : devenir développeuse informatique !
+                <p>
+                    Après de nombreuses années passées dans le domaine informatique à des postes administratifs, me voilà à présent en train de changer de casquette.
                     <br>
-                    <br> Un métier chronophage mais passionnant pour sa créativité et ses possibilités infinies.
+                    <br>Je me suis lancée un nouveau défi : devenir développeuse informatique !
+                    <br>
+                    <br> Un métier chronophage mais passionnant pour son aspect créatif et ses possibilités infinies.
                     <br>
                     <br> Quand je ne grimpe pas (mon autre passion), je code !
                 </p>
