@@ -121,14 +121,14 @@ img {
 }
 
 .situ {
-    background-color: rgba(27, 54, 160, 0.245);
+    background-color: #d9eaf4b7;
     height: 50vh;
     border-radius: 50%;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(125, 130, 146);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 14px;
 }
@@ -183,6 +183,8 @@ a {
     .container-header {margin-right: 5%;margin-left: 5%;}
     .container-photo {height: auto;width: 100%;padding-top: 1%;}
     .container-situ {height: auto;width: 100%;padding-top: 1%;}
+    .situ {font-size: 12px;}
+    img {max-width: 70%;max-height: 70%;}
 }
     
 @media (max-width: 500px) {
@@ -194,12 +196,13 @@ a {
     .container-header {margin-right: 1%;margin-left: 1%;}
     .container-photo {height: auto;width: 100%;padding-top: 1%;}
     .container-situ {height: auto;width: 100%;padding-top: 1%;}
-    .situ {font-size: x-small;}
+    .situ {font-size: 12px;}
+    img {max-width: 70%;max-height: 70%;}
 
 }
 
 @media (max-width: 460px) {
-    .police {font-size: 9px}
+    .police {font-size: 10px}
     main {display: block; margin: 0%;}
     .carre-header {width: 100%;}
     .container-header-sm {margin-right: 0%;margin-left: 0%;}
@@ -207,5 +210,6 @@ a {
     .container-header {margin-right: 0%;margin-left: 0%;}
     .container-photo {height: auto;width: 100%;padding-top: 1%;}
     .container-situ {height: auto;width: 100%;padding-top: 1%;}
-    .situ {font-size: x-small;}
+    .situ {font-size: 12px;}
+    img {max-width: 70%;max-height: 70%;}
 }
