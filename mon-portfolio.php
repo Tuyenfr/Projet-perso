@@ -23,7 +23,7 @@ require_once "./templates/header-autres.php";
                 <li class="liste-diplome">NB : sans moyen de paiement pour l'instant (paiement au stade)</li>
                 <li>Version web développée en PHP/MySQL</li>
                 <li>Siteweb : <a class="lien-diplome" href="https://tuyen-nguyen.com/Superbowl-BET/" target="_blank">https://tuyen-nguyen.com/Superbowl-BET/</a></li>
-                <li>Visualisation : <a class="lien-diplome" href="" target="_blank">copies écran</a></li>
+                <li>Visualisation : <a class="lien-diplome" href="./assets/Screenshots-SBB.pdf" target="_blank">copies écran</a></li>
                 <li>Lien github : <a class="lien-diplome" href="https://github.com/Tuyenfr/Superbowl" target="_blank">https://github.com/Tuyenfr/Superbowl</a></li>
             </ul>
         </div>
