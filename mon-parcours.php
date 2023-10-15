@@ -1,5 +1,5 @@
 <?php
-require_once "header-autres.php";
+require_once "./templates/header-autres.php";
 ?>
 
     <main class="main-parcours">
@@ -26,6 +26,24 @@ require_once "header-autres.php";
                 <li>développpement d'une interface sécurisée (front et back)</li>
                 <li>développement d'une base de données sécurisée</li>
                 <li>développement d'une application sécurisée</li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="section-job">
+        <div class="date">
+            <p>Mars 2023 - Mai 2023</p>
+        </div>
+        <div class="company">
+            <p><strong>Accompagnement gestion administrative et comptable</strong> (Freelance mi-temps)</p>
+            <p class="italique">Pixagility, Boulogne-Billancourt</p>
+        </div>
+        <div class="job-description">
+            <p>Domaine d'activité : Services techniques audiovisuels</p>
+            <p>Fonctions :</p>
+            <ul>
+                <li>Gestion administrative et comptable : saisie comptable, déclaration de TVA, gestion de la trésorerie, contrôle de gestion, budget, admin RH, services généraux</li>
+                <li>Administration des ventes : facturation, recouvrement, appels d’offres</li>
             </ul>
         </div>
     </section>
@@ -207,16 +225,16 @@ require_once "header-autres.php";
                 <li>PPG Industries International, La Défense (Industrie chimique)</li>
                 <li>Amgen, Neuilly sur Seine (Laboratoire pharmaceutique)</li>
                 <li>Weaveservices, Paris 16ème (SSII)</li>
-                <li>Cryonetworks, St Ouen – Groupe Cryo Interactive (Internet et jeux vidéos)</li>
+                <li>Cryonetworks, St Ouen – Groupe Cryo Interactive (Jeux vidéos online)</li>
                 <li>Cryo Interactive Entertainment, Paris 18ème (Jeux vidéos)</li>
                 <li>FEVAM, La Courneuve (Habillement)</li>
             </ul>   
         </div>
     </section>
 
-    <div class="lien-CV">CV complet via le lien ci-après : <a href="CV.pdf">lien</a></div>
+    <div class="lien-CV">CV complet via le lien ci-après : <a href=".assets/CV.pdf">lien</a></div>
     </main>
 
 <?php
-require_once "footer.php";
+require_once "./templates/footer.php";
 ?>

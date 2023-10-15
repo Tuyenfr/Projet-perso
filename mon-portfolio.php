@@ -1,5 +1,5 @@
 <?php
-require_once "header-autres.php";
+require_once "./templates/header-autres.php";
 ?>
 
     <main>
@@ -10,5 +10,5 @@ require_once "header-autres.php";
     </main>
 
 <?php
-require_once "footer.php";
+require_once "./templates/footer.php";
 ?>

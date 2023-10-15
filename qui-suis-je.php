@@ -1,11 +1,11 @@
 <?php
-require_once "header-autres.php";
+require_once "./templates/header-autres.php";
 ?>
 
     <main class="flex">
 
         <div class="container-photo">
-            <img src="photo-tuyen2.png" alt="Photo Tuyen">
+            <img src="./assets/photo-tuyen2.png" alt="Photo Tuyen">
         </div>
 
         <div class="container-situ">
@@ -25,5 +25,5 @@ require_once "header-autres.php";
     </main>
 
 <?php
-require_once "footer.php";
+require_once "./templates/footer.php";
 ?>
