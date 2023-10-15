@@ -42,7 +42,7 @@ require_once "./templates/header-autres.php";
             <ul>
                 <li>Application mobile de drapeaux</li>
                 <li>Version Android développée en kotlin sous Android Studio</li>
-                <li>Visualisation : <a class="lien-diplome" href="" target="_blank">copies écran</a></li>
+                <li>Visualisation : <a class="lien-diplome" href="./assets/Screenshots-Flags.pdf" target="_blank">copies écran</a></li>
                 <li>Lien github : <a class="lien-diplome" href="https://github.com/Tuyenfr/Flags" target="_blank">https://github.com/Tuyenfr/Flags</a></li>
             </ul>
         </div>
