@@ -10,10 +10,10 @@ require_once "./templates/header-autres.php";
 
     <section class="section-competences">
         <div class="date">
-            <p>Informatique</p>
+            <p><strong>Informatique</strong></p>
         </div>
         <div class="company">
-            <p><strong>Langages/Outils</strong></p>
+            <p>Langages/Outils</p>
         </div>
         <div class="job-description">
             <br>
@@ -30,10 +30,10 @@ require_once "./templates/header-autres.php";
     
     <section class="section-competences">
         <div class="date">
-            <p>Gestion</p>
+            <p><strong>Gestion</strong></p>
         </div>
         <div class="company">
-            <p><strong>Administratif et Financier</strong></p>
+            <p>Administratif et Financier</p>
         </div>
         <div class="job-description">
             <p>Administratif</p>
@@ -56,10 +56,10 @@ require_once "./templates/header-autres.php";
         
     <section class="section-competences">
         <div class="date">
-            <p>Langues</p>
+            <p><strong>Langues</strong></p>
         </div>
         <div class="company">
-            <p><strong>Anglais et Espagnol</strong></p>
+            <p>Anglais et Espagnol</p>
         </div>
         <div class="job-description">
             <br>
