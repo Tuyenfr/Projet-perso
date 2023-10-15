@@ -24,6 +24,10 @@ require_once "./templates/header-autres.php";
 
     </main>
 
+    <br>
+    <br>
+    <br>
+    <div class="lien-CV"></div>
     
 <?php
 require_once "./templates/footer.php";

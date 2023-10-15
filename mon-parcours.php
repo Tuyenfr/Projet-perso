@@ -232,7 +232,7 @@ require_once "./templates/header-autres.php";
         </div>
     </section>
 
-    <div class="lien-CV">CV complet via le lien ci-après : <a href=".assets/CV.pdf">lien</a></div>
+    <div class="lien-CV">CV complet via le lien ci-après : <a href="./assets/CV.pdf">lien</a></div>
     </main>
 
     

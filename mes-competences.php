@@ -8,7 +8,7 @@ require_once "./templates/header-autres.php";
         <h3>Compétences</h3>
     </div>
 
-    <section class="section-job">
+    <section class="section-competences">
         <div class="date">
             <p>Informatique</p>
         </div>
@@ -27,9 +27,52 @@ require_once "./templates/header-autres.php";
         </div>
     </section>
 
+    
+    <section class="section-competences">
+        <div class="date">
+            <p>Gestion</p>
+        </div>
+        <div class="company">
+            <p><strong>Administratif et Financier</strong></p>
+        </div>
+        <div class="job-description">
+            <p>Administratif</p>
+            <ul>
+                <li>Administration des ventes</li>
+                <li>Support commercial</li>
+                <li>Administration du personnel</li>
+                <li>Services Généraux</li>
+            </ul>
+            <p>Financier</p>
+            <ul>
+                <li>Comptabilité auxiliaire, TVA, OD, écritures d'inventaire</li>
+                <li>Suivi de trésorerie</li>
+                <li>Budget</li>
+                <li>Reporting</li>
+            </ul>
+        </div>
+    </section>
+
+        
+    <section class="section-competences">
+        <div class="date">
+            <p>Langues</p>
+        </div>
+        <div class="company">
+            <p><strong>Anglais et Espagnol</strong></p>
+        </div>
+        <div class="job-description">
+            <br>
+            <ul>
+                <li>Anglais (Bilingue)</li>
+                <li>Espagnol (Intermédiaire)</li>
+            </ul>
+        </div>
+    </section>
+
     <h3>Formation</h3>
 
-    <section class="section-job">
+    <section class="section-competences">
         <div class="date">
             <p>Depuis mars 2023</p>
         </div>
@@ -49,7 +92,7 @@ require_once "./templates/header-autres.php";
     </section>
 
     
-    <section class="section-job">
+    <section class="section-competences">
         <div class="date">
             <p>1992-1994</p>
         </div>
@@ -65,17 +108,94 @@ require_once "./templates/header-autres.php";
             </ul>
 
             <ul class="liste-diplome">
-                <li><a class="lien-diplome" href="./assets/EMA.pdf">=> Lien diplôme EMA</a></li>
-                <li><a class="lien-diplome" href="./assets/AADegree.pdf">=> Lien diplôme Bachelor in Arts</a></li>
+                <li><a class="lien-diplome" href="./assets/EMA.pdf">=> Diplôme EMA</a></li>
+                <li><a class="lien-diplome" href="./assets/AADegree.pdf">=> Diplôme Bachelor in Arts</a></li>
             </ul>
-            
         </div>
     </section>
 
-    <section>
-    <h3>Autres</h3>
+    <section class="section-competences">
+        <div class="date">
+            <p>1989-1992</p>
+        </div>
+        <div class="company">
+            <p><strong>Licence LEA</strong></p>
+            <p class="italique">Université de Cergy-Pontoise</p>
+        </div>
+        <div class="job-description">
+            <br>
+            <ul>
+                <li>Langues Etrangères Appliquées en Anglais et Espagnol</li>
+            </ul>
+            <ul class="liste-diplome">
+                <li><a class="lien-diplome" href="./assets/Licence-LEA.pdf">=> Diplôme Licence LEA</a></li>
+                <li><a class="lien-diplome" href="./assets/DEUG-LEA.pdf">=> Diplôme DEUG LEA</a></li>
+            </ul>
+        </div>
     </section>
-    
+
+    <section class="section-competences">
+        <div class="date">
+            <p>1988-1989</p>
+        </div>
+        <div class="company">
+            <p><strong>Baccalauréat série D</strong></p>
+            <p class="italique">Lycée Alfred Kastler,Cergy-Pontoise</p>
+        </div>
+        <div class="job-description">
+            <br>
+            <ul>
+                <li>Matières principales : sciences naturelles (SVT) et physique-chimie</li>
+            </ul>
+
+            <ul class="liste-diplome">
+                <li><a class="lien-diplome" href="./assets/BAC-D.pdf">=> Diplôme Baccalauréat</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <h3>Autres</h3>
+
+    <section class="section-competences">
+        <div class="date">
+            <p>Mai 2009</p>
+        </div>
+        <div class="company">
+            <p><strong>Auditeur interne ISO9001</strong></p>
+            <p class="italique">Benchmark Business Training, UK</p>
+        </div>
+        <div class="job-description">
+            <br>
+            <ul>
+                <li>Audit des systèmes de management et qualité</li>
+            </ul>
+
+            <ul class="liste-diplome">
+                <li><a class="lien-diplome" href="./assets/ISO9001.pdf">=> Diplôme Auditeur interne ISO 19011:2002</a></li>
+            </ul>
+        </div>
+    </section>
+
+    <section class="section-competences">
+        <div class="date">
+            <p>Depuis 2021</p>
+        </div>
+        <div class="company">
+            <p><strong>Trésorière association sportive</strong></p>
+            <p class="italique">Suresnes Escalade</p>
+        </div>
+        <div class="job-description">
+            <br>
+            <ul>
+                <li>Suivi des recettes et dépenses</li>
+                <li>Coordination comptable</li>
+            </ul>
+
+        </div>
+    </section>
+
+    <div class="lien-CV"></div>
+
     </main>
 
 <?php
