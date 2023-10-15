@@ -235,6 +235,7 @@ require_once "./templates/header-autres.php";
     <div class="lien-CV">CV complet via le lien ci-après : <a href=".assets/CV.pdf">lien</a></div>
     </main>
 
+    
 <?php
 require_once "./templates/footer.php";
 ?>

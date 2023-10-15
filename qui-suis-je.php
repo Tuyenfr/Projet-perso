@@ -24,6 +24,7 @@ require_once "./templates/header-autres.php";
 
     </main>
 
+    
 <?php
 require_once "./templates/footer.php";
 ?>

@@ -72,7 +72,6 @@ require_once "./templates/header-autres.php";
         </div>
     </section>
 
-
     <section>
     <h3>Autres</h3>
     </section>
