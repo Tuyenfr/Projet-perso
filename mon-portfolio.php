@@ -13,7 +13,7 @@ require_once "./templates/header-autres.php";
             <p><strong>Superbowl-BET</strong></p>
         </div>
         <div class="company">
-            <p>Projet école (en cours de développement)</p>
+            <p>Projet école d'examen (en cours de développement)</p>
             <p class="italique">Ecole Studi, e-learning</p>
         </div>
         <div class="job-description">
@@ -34,7 +34,7 @@ require_once "./templates/header-autres.php";
             <p><strong>Flags</strong></p>
         </div>
         <div class="company">
-            <p>Projet école (en cours de développement)</p>
+            <p>Cas pratique école (en cours de développement)</p>
             <p class="italique">Ecole Studi, e-learning</p>
         </div>
         <div class="job-description">
