@@ -108,7 +108,7 @@ require_once "./templates/header-autres.php";
         </div>
         <div class="company">
             <p><strong>Fondatrice et gérante</strong> (temps partiel)</p>
-            <p class="italique">Eternaloe, Courbevoie</p>
+            <p class="italique">Eternaloe SARL, Courbevoie</p>
         </div>
         <div class="job-description">
             <p>Domaine d'activité : Site e-commerce</p>

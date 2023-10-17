@@ -94,11 +94,12 @@ body {
 /** QUI SUIS-JE **/
 
 .flex {
-    height: 100%;
+    height: fit-content;
     display: flex;
     justify-content: center;
     overflow-y: auto;
     position: relative;
+    background-color: aliceblue;
 }
 
 .container-photo {
@@ -121,10 +122,12 @@ img {
     display: flex;
     justify-content: center;
     width: 60%;
+    margin-right: 10px;
 }
 
 .situ {
-    background-color: #d9eaf4b7;
+    /* background-color: #d9eaf4b7; */
+    background-color: rgb(251, 242, 228);
     height: 50vh;
     border-radius: 50%;
     text-align: center;
@@ -142,7 +145,8 @@ p {
     margin-right: 8px;
 }
 
-/** MON-PARCOURS **/
+
+/** MON-PARCOURS ET PORTFOLIO **/
 
 .main-parcours {
     background-color: aliceblue;

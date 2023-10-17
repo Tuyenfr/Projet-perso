@@ -2,8 +2,9 @@
 require_once "./templates/header-autres.php";
 ?>
 
-    <main class="flex">
+    <main class="main-parcours">
 
+    <section class="flex">
         <div class="container-photo">
             <img src="./assets/photo-tuyen2.png" alt="Photo Tuyen">
         </div>
@@ -21,14 +22,21 @@ require_once "./templates/header-autres.php";
                 </p>
             </div>
         </div>
+        </section>
+
+        <section>
+        <br>
+        <br>
+        <br>
+        </section>
+
+
+        <div class="lien-CV"></div>
 
     </main>
-
-    <br>
-    <br>
-    <br>
-    <div class="lien-CV"></div>
     
+
+
 <?php
 require_once "./templates/footer.php";
 ?>
