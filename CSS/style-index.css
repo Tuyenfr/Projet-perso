@@ -52,7 +52,7 @@ a {
 p {text-align: center;}
 
 .square2:hover {
-    background-color: #bfcad6;
+    background-color:  #d8dadd;
     color: #5588be;
     transform: rotate(360deg);
     transition: transform 0.8s ease-in;

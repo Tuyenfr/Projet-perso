@@ -81,7 +81,7 @@ body {
 }
 
 .square2-header:hover {
-    background-color: #bfcad6;
+    background-color: #d8dadd;
     color: #5588be;
     transition: transform 0.8s ease-in;
 }
