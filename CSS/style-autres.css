@@ -71,7 +71,6 @@ body {
     height: 4vh;
     background-color: #5588be;
     border-radius: 1pc;
-    transition: all 0s linear;
     }
 
 .police {
@@ -83,7 +82,6 @@ body {
 .square2-header:hover {
     background-color: #d8dadd;
     color: #5588be;
-    transition: transform 0.8s ease-in;
 }
     
 .square2-header:hover a {

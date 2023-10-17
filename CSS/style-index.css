@@ -37,7 +37,6 @@ body {background-color: white}
     height: 27vh;
     background-color: #5588be;
     border-radius: 1pc;
-    transition: all cubic-bezier(.17,.67,.83,.67);
     }
 
 a {
