@@ -22,16 +22,16 @@ require_once "./templates/header-autres.php";
                 </p>
             </div>
         </div>
-        </section>
+    </section>
 
-        <section>
+    <section>
         <br>
         <br>
         <br>
-        </section>
+    </section>
 
 
-        <div class="lien-CV"></div>
+    <div class="lien-CV"></div>
 
     </main>
     
