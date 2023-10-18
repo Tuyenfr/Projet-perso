@@ -299,8 +299,8 @@ a:hover {
 /** RESPONSIVE QUI SUIS-JE **/
 
 
-@media (max-width: 860px) {
-    .police {font-size: 12px}
+@media (max-width: 1000px) {
+    .police {font-size: 14px}
     .flex {display: block;}
     .container-header-sm {margin-right: 15%;margin-left: 15%;}
     .container-header-md {margin-right: 10%;margin-left: 10%;}
@@ -310,11 +310,12 @@ a:hover {
     .situ {font-size: 12px; font-weight: bold;}
     img {max-width: 70%;max-height: 70%;}
     .flux {margin-left: 3%; margin-right: 3%;}
-    .section-competences {margin-left: 2%; margin-right: 1%;}
+    .section-competences {margin-left: 2%; margin-right: -3%;}
+    h3{margin-left: 2%;}
 }
     
-@media (max-width: 500px) {
-    .police {font-size: 10px}
+@media (max-width: 800px) {
+    .police {font-size: 13px}
     .flex {display: block;margin: 0%;}
     .container-header-sm {margin-right: 10%;margin-left: 10%;}
     .container-header-md {margin-right: 5%;margin-left: 5%;}
@@ -323,23 +324,25 @@ a:hover {
     .container-situ {height: auto;width: 100%;padding-top: 1%;}
     .situ {font-size: 12px; font-weight: bold;}
     img {max-width: 70%;max-height: 70%;}
-    .flux {margin-left: 0%; margin-right: 0%;}
-    .section-competences {margin-left: 2%; margin-right: 1%;}
+    .flux {margin-left: 3%; margin-right: 3%;}
+    .section-competences {margin-left: 2%; margin-right: -3%;}
     h3{margin-left: 2%;}
 
 }
 
-@media (max-width: 460px) {
+@media (max-width: 560px) {
     .police {font-size: 10px}
     .flex {display: block; margin: 0%;}
-    .container-header-sm {margin-right: 0%;margin-left: 0%;}
-    .container-header-md {margin-right: 0%;margin-left: 0%;}
-    .container-header {margin-right: 0%;margin-left: 0%;}
+    .container-header-sm {margin-right: 5%;margin-left: 5%;padding-left: 1%;padding-right: 1%;}
+    .container-header-md {margin-right: 2%;margin-left: 2%;;padding-left: 1%;padding-right: 1%;}
+    .container-header {margin-right: 0%;margin-left: 0%;padding-left: 1%;padding-right: 1%;}
     .container-photo {height: auto;width: 100%;padding-top: 1%;}
     .container-situ {height: auto;width: 100%;padding-top: 1%;}
+    .square1-header {width: 28vw;}
+    .square2-header {width: 28vw;}
     .situ {font-size: 11px; font-weight: bold;}
     img {max-width: 70%;max-height: 70%;}
     .flux {margin-left: 0%; margin-right: 0%;}
-    .section-competences {margin-left: 2%; margin-right: 1%;}
+    .section-competences {margin-left: 2%; margin-right: -3%;}
     h3{margin-left: 2%;}
 }
