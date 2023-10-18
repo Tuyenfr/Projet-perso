@@ -284,6 +284,11 @@ a {
     color: white;
     }
 
+a:hover {
+    color: rgb(12, 213, 216);
+    font-weight: bold;
+}
+
 /** PROVISOIRE **/
 
 .provisoire {
