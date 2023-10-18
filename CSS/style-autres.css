@@ -306,7 +306,7 @@ a:hover {
     .container-header-md {margin-right: 10%;margin-left: 10%;}
     .container-header {margin-right: 5%;margin-left: 5%;}
     .container-photo {height: auto;width: 100%;padding-top: 1%;}
-    .container-situ {height: auto;width: 100%;padding-top: 1%;margin-right: 0%;}
+    .container-situ {height: auto;width: 90%;padding-top: 1%;margin-right: 0%;}
     .situ {font-size: 12px; font-weight: bold;}
     img {max-width: 70%;max-height: 70%;}
     .flux {margin-left: 3%; margin-right: 3%;}
@@ -322,7 +322,7 @@ a:hover {
     .container-header-md {margin-right: 5%;margin-left: 5%;}
     .container-header {margin-right: 1%;margin-left: 1%;}
     .container-photo {height: auto;width: 100%;padding-top: 1%;}
-    .container-situ {height: auto;width: 100%;padding-top: 1%;margin-right: 0%;}
+    .container-situ {height: auto;width: 80%;padding-top: 1%;margin-right: 0%;}
     .situ {font-size: 12px; font-weight: bold;}
     img {max-width: 70%;max-height: 70%;}
     .flux {margin-left: 3%; margin-right: 3%;}
