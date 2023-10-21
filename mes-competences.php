@@ -21,7 +21,8 @@ require_once "./templates/header-autres.php";
                 <li>PHP</li>
                 <li>MySQL (MariaDB, SQLite)</li>
                 <li>HTML/CSS</li>
-                <li>Javascript, Java, Python (notions)</li>
+                <li>Javascript</li>
+                <li>Java, Python, Kotlin (notions)</li>
                 <li>Github</li>
             </ul>
         </div>
