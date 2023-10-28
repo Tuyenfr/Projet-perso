@@ -19,10 +19,10 @@ require_once "./templates/header-autres.php";
             <br>
             <ul>
                 <li>PHP</li>
-                <li>MySQL (MariaDB, SQLite)</li>
-                <li>HTML/CSS</li>
-                <li>Javascript</li>
-                <li>Java, Python, Kotlin (notions)</li>
+                <li>MySQL, MariaDB, SQLite</li>
+                <li>HTML, CSS, Javascript</li>
+                <li>Kotlin/Jetpack Compose (notions)/ <a class="lien-diplome" href="https://g.dev/tuyen-nguyen" target="_blank">Profil développeur Android</a></li>
+                <li>Java, Python (notions)</li>
                 <li>Github</li>
             </ul>
         </div>
@@ -146,7 +146,7 @@ require_once "./templates/header-autres.php";
         <div class="job-description">
             <br>
             <ul>
-                <li>Matières principales : sciences naturelles (SVT) et physique-chimie</li>
+                <li>Matières principales : sciences naturelles (SVT), physique-chimie et mathématiques</li>
             </ul>
 
             <ul class="liste-diplome">
