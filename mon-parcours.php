@@ -7,7 +7,6 @@ require_once "./templates/header-autres.php";
     <section class="section-title">
     <div class="title">
         <p>DEVELOPPEUSE PHP</p>
-        <p class="sub-title">En recherche d'un stage ou d'un contrat de professionalisation</p>
     </div>
     </section>
 
