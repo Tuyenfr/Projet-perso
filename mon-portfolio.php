@@ -2,7 +2,7 @@
 require_once "./templates/header-autres.php";
 ?>
 
-    <main class="main-parcours">
+<main class="main-parcours">
 
     <div class="pad-top">
         <h3>Projets</h3>
@@ -69,9 +69,9 @@ require_once "./templates/header-autres.php";
     </section>
 
     <!-- <p class="provisoire">A RETIRER PLUS TARD - EN BLANC POUR COLLER AVEC LE BAS DE PAGE</p> -->
-    
+
     <div class="lien-CV"></div>
-    </main>
+</main>
 
 
 <?php

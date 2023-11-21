@@ -1,8 +1,7 @@
 
     
-    
-        <div class="center">    
-        <footer><button><a href="mailto:tuyen.nguyen.fr@gmail.com">Me contacter</a></button></footer>
+        <div class="center">
+        <footer><button><a href="contact.php">Me contacter</a></button></footer>
         </div>
         
     </div>

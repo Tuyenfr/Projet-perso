@@ -251,6 +251,30 @@ h3 {
     list-style-type: none;
 }
 
+/** CONTACT et MESSAGE **/
+
+.main-contact {
+    background-color: aliceblue;
+    height: 520px;
+    width: 100%;
+    margin-bottom: -50px;
+}
+
+.form-title {
+    text-align: center;
+    font-weight: bold;
+    color: #5588be;
+}
+
+.form-label {
+    text-align: center;
+    font-size: 14px;
+    color: #858688;
+    font-style: italic;
+    display: inline-block;
+    width: 20px;
+}
+
 /** FOOTER **/
 
 footer {
