@@ -15,7 +15,7 @@ require_once "./templates/header-autres.php";
             <p>Depuis nov 2023</p>
         </div>
         <div class="company">
-            <p><strong>Développeuse PHP</strong></p>
+            <p><strong>Développeuse PHP</strong> (stage)</p>
             <p class="italique">Novixir, Le Neubourg</p>
         </div>
         <div class="job-description">
