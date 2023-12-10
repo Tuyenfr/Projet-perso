@@ -18,10 +18,12 @@ require_once "./templates/header-autres.php";
         <div class="job-description">
             <br>
             <ul>
-                <li>PHP</li>
+                <li>PHP<br>
+                <i>=> <a class="lien-diplome" href="./assets/OpenClassrooms-POO-PHP.pdf" target="_blank">Certificat OpenClassrooms POO PHP</a></i></li>
                 <li>MySQL, MariaDB, SQLite</li>
                 <li>HTML, CSS, Javascript</li>
-                <li>Kotlin/Jetpack Compose (notions)/ <a class="lien-diplome" href="https://g.dev/tuyen-nguyen" target="_blank">Profil développeur Android</a></li>
+                <li>Android : Kotlin/Jetpack Compose (notions)<br>
+                <i>=> <a class="lien-diplome" href="https://g.dev/tuyen-nguyen" target="_blank">Profil développeur Android</a></i></li>
                 <li>Java, Python (notions)</li>
                 <li>Github</li>
             </ul>
@@ -109,8 +111,8 @@ require_once "./templates/header-autres.php";
             </ul>
 
             <ul class="liste-diplome">
-                <li><a class="lien-diplome" href="./assets/EMA.pdf">=> Diplôme EMA</a></li>
-                <li><a class="lien-diplome" href="./assets/AADegree.pdf">=> Diplôme Bachelor in Arts</a></li>
+                <li>=> <a class="lien-diplome" href="./assets/EMA.pdf" target="_blank"><i>Diplôme EMA</i></a></li>
+                <li>=> <a class="lien-diplome" href="./assets/AADegree.pdf" target="_blank"><i>Diplôme Bachelor in Arts</i></a></li>
             </ul>
         </div>
     </section>
@@ -129,8 +131,8 @@ require_once "./templates/header-autres.php";
                 <li>Langues Etrangères Appliquées en Anglais et Espagnol</li>
             </ul>
             <ul class="liste-diplome">
-                <li><a class="lien-diplome" href="./assets/Licence-LEA.pdf">=> Diplôme Licence LEA</a></li>
-                <li><a class="lien-diplome" href="./assets/DEUG-LEA.pdf">=> Diplôme DEUG LEA</a></li>
+                <li>=> <a class="lien-diplome" href="./assets/Licence-LEA.pdf" target="_blank"><i>Diplôme Licence LEA</i></a></li>
+                <li>=> <a class="lien-diplome" href="./assets/DEUG-LEA.pdf" target="_blank"><i>Diplôme DEUG LEA</i></a></li>
             </ul>
         </div>
     </section>
@@ -150,7 +152,7 @@ require_once "./templates/header-autres.php";
             </ul>
 
             <ul class="liste-diplome">
-                <li><a class="lien-diplome" href="./assets/BAC-D.pdf">=> Diplôme Baccalauréat</a></li>
+                <li>=> <a class="lien-diplome" href="./assets/BAC-D.pdf" target="_blank"><i>Diplôme Baccalauréat</i></a></li>
             </ul>
         </div>
     </section>
@@ -172,7 +174,7 @@ require_once "./templates/header-autres.php";
             </ul>
 
             <ul class="liste-diplome">
-                <li><a class="lien-diplome" href="./assets/ISO9001.pdf">=> Diplôme Auditeur interne ISO 19011:2002</a></li>
+                <li>=> <a class="lien-diplome" href="./assets/ISO9001.pdf" target="_blank"><i>Diplôme Auditeur interne ISO 19011:2002</i></a></li>
             </ul>
         </div>
     </section>
