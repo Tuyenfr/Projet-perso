@@ -77,19 +77,22 @@ require_once "./templates/header-autres.php";
 
     <section class="section-competences">
         <div class="date">
-            <p>Depuis mars 2023</p>
+            <p>Mars-Décembre 2023</p>
         </div>
         <div class="company">
-            <p><strong>En formation de Bachelor Développeur Informatique</strong></p>
+            <p><strong>Concepteur Développeur d'Applications (Titre Professionnel niv.6)</strong></p>
             <p class="italique">Ecole Studi, e-learning</p>
         </div>
         <div class="job-description">
-            <p>Diplôme visé : Concepteur Développeur d'Applications (Titre Professionnel niv.6)</p>
-            <p>Compétences visées : </p>
+            <p>Compétences couvertes: </p>
             <ul>
-                <li>développpement d'une interface sécurisée (front et back)</li>
-                <li>développement d'une base de données sécurisée</li>
-                <li>développement d'une application sécurisée</li>
+                <li>Développpement d'une interface sécurisée (front et back)</li>
+                <li>Développement d'une base de données sécurisée</li>
+                <li>Développement d'une application sécurisée</li>
+            </ul>
+
+            <ul class="liste-diplome">
+                <li>=> <a class="lien-diplome" href="./assets/CDA.pdf" target="_blank"><i>Diplôme CDA</i></a></li>
             </ul>
         </div>
     </section>
