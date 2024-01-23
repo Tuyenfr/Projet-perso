@@ -80,7 +80,7 @@ require_once "./templates/header-autres.php";
             <p>Mars-Décembre 2023</p>
         </div>
         <div class="company">
-            <p><strong>Concepteur Développeur d'Applications (Titre Professionnel niv.6)</strong></p>
+            <p><strong>Concepteur Développeur d'Applications</strong></p>
             <p class="italique">Ecole Studi, e-learning</p>
         </div>
         <div class="job-description">
