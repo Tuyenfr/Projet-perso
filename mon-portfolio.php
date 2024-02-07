@@ -22,7 +22,7 @@ require_once "./templates/header-autres.php";
                 <li>Jeu de pari en ligne sur le Super Bowl (football américain)</li>
                 <li class="liste-diplome">NB : fonctionnel mais sans moyen de paiement pour l'instant (paiement au stade)</li>
                 <li>Version web développée en PHP/MySQL/Javascript</li>
-                <li>Siteweb : <a class="lien-diplome" href="https://tuyen-nguyen.com/Superbowl-BET/" target="_blank">https://tuyen-nguyen.com/Superbowl-BET/</a></li>
+                <li>Siteweb : <a class="lien-diplome" href="https://superbowl.tuyen-nguyen.com/" target="_blank">https://superbowl.tuyen-nguyen.com</a></li>
                 <li>Visualisation : <a class="lien-diplome" href="./assets/Screenshots-SBB.pdf" target="_blank">copies écran</a></li>
                 <li>Lien github : <a class="lien-diplome" href="https://github.com/Tuyenfr/Superbowl" target="_blank">https://github.com/Tuyenfr/Superbowl</a></li>
             </ul>
