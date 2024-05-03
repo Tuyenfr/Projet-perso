@@ -18,7 +18,7 @@ require_once "./templates/header-autres.php";
         <div class="job-description">
             <br>
             <ul>
-                <li>PHP<br>
+                <li>PHP natif / Laravel<br>
                 <i>=> <a class="lien-diplome" href="./assets/OpenClassrooms-POO-PHP.pdf" target="_blank">Certificat OpenClassrooms POO PHP</a></i></li>
                 <li>MySQL, MariaDB, SQLite</li>
                 <li>HTML, CSS, Javascript</li>

@@ -12,7 +12,7 @@ require_once "./templates/header-autres.php";
 
     <section class="section-job">
         <div class="date">
-            <p>Depuis nov 2023</p>
+            <p>Nov 2023 - Avr 2024</p>
         </div>
         <div class="company">
             <p><strong>Développeuse PHP</strong> (stage)</p>
@@ -22,8 +22,8 @@ require_once "./templates/header-autres.php";
             <p>Domaine d'activité : Agence web</p>
             <p>Fonctions : </p>
             <ul>
-                <li>Développement web (Wordpress)</li>
-                <li>Développement d'applications</li>
+                <li>Intégration graphique et développement de plugin (Wordpress)</li>
+                <li>Développement spécifique PHP (IMAP, TCPDF, API Brevo, API Openai, API Gemini)</li>
                 <li>Coordination de projets</li>
             </ul>
         </div>
