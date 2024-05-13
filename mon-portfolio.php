@@ -31,6 +31,26 @@ require_once "./templates/header-autres.php";
 
     <section class="section-competences">
         <div class="date">
+            <p><strong>Onlineshop</strong></p>
+        </div>
+        <div class="company">
+            <p>Projet formation Laravel (en cours de développement)</p>
+            <p class="italique">Cours Udemy : "Laravel 10 & 9 : Devenez maitre avec 50 heures de projets"</p>
+        </div>
+        <div class="job-description">
+            <p>Description :</p>
+            <ul>
+                <li>Site e-commerce</li>
+                <li>Intégration d'un template html dans un projet Laravel</li>
+                <li>Visualisation : <a class="lien-diplome" href="https://projet1.tuyen-nguyen.com/onlineshop/onlineshop_screenshots.pdf" target="_blank">copies écran</a></li>
+                <li>Lien github : <a class="lien-diplome" href="https://github.com/Tuyenfr/laravel-onlineshop" target="_blank">https://github.com/Tuyenfr/laravel-onlineshop</a></li>
+            </ul>
+        </div>
+    </section>
+
+
+    <section class="section-competences">
+        <div class="date">
             <p><strong>Dico anglais</strong></p>
         </div>
         <div class="company">
