@@ -59,7 +59,7 @@ require_once "./templates/header-autres.php";
             <p>Description :</p>
             <ul>
                 <li>Location de camping-cars entre particuliers</li>
-                <li>Visualisation : <a class="lien-diplome" href="./assets/Screenshots-onlineshop.pdf" target="_blank">copies écran</a></li>
+                <li>Visualisation : <a class="lien-diplome" href="./assets/Screenshots-wiki.pdf" target="_blank">copies écran</a></li>
                 <li>Lien github : <a class="lien-diplome" href="https://github.com/Tuyenfr/symfony-wiki" target="_blank">https://github.com/Tuyenfr/symfony-wiki</a></li>
             </ul>
         </div>
