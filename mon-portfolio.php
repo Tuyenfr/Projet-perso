@@ -48,6 +48,22 @@ require_once "./templates/header-autres.php";
         </div>
     </section>
 
+    <section class="section-competences">
+        <div class="date">
+            <p><strong>Wiki</strong></p>
+        </div>
+        <div class="company">
+            <p>Projet exercice Symfony (en cours de développement)</p>
+        </div>
+        <div class="job-description">
+            <p>Description :</p>
+            <ul>
+                <li>Location de camping-cars entre particuliers</li>
+                <li>Visualisation : <a class="lien-diplome" href="./assets/Screenshots-onlineshop.pdf" target="_blank">copies écran</a></li>
+                <li>Lien github : <a class="lien-diplome" href="https://github.com/Tuyenfr/symfony-wiki" target="_blank">https://github.com/Tuyenfr/symfony-wiki</a></li>
+            </ul>
+        </div>
+    </section>
 
     <section class="section-competences">
         <div class="date">
