@@ -42,6 +42,7 @@ require_once "./templates/header-autres.php";
             <ul>
                 <li>Site e-commerce</li>
                 <li>Intégration d'un template html dans un projet Laravel</li>
+                <li>Siteweb : <a class="lien-diplome" href="https://laravel.tuyen-nguyen.com/" target="_blank">https://laravel.tuyen-nguyen.com</a></li>
                 <li>Visualisation : <a class="lien-diplome" href="./assets/Screenshots-onlineshop.pdf" target="_blank">copies écran</a></li>
                 <li>Lien github : <a class="lien-diplome" href="https://github.com/Tuyenfr/laravel-onlineshop" target="_blank">https://github.com/Tuyenfr/laravel-onlineshop</a></li>
             </ul>
