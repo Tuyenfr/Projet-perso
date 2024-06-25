@@ -13,7 +13,6 @@ $nom = $_POST['Nom'];
 $email = $_POST['Email'];
 $message_recu = $_POST['Message'];
 
-
 $to      = 'tuyen.nguyen.fr@gmail.com';
 $subject = $_POST['Sujet'];
 $message = $message_recu."\r\n".$prenom."\r\n".$nom."\r\n".$email;
@@ -21,7 +20,13 @@ $headers = 'From: contact@tuyen-nguyen.com' . "\r\n" .
 'Reply-To: contact@tuyen-nguyen.com' . "\r\n" .
 'X-Mailer: PHP/' . phpversion();
 
+// $headers = 'From: contact@tuyen-nguyen.com' . "\r\n" .
+// 'Reply-To: contact@tuyen-nguyen.com' . "\r\n" .
+// 'MIME-Version: 1.0' . "r\n" .
+// 'Content-type: text/html, charset=utf-8';
+
 mail($to, $subject, $message, $headers);
+
 ?>
 
 </div>

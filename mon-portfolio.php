@@ -34,7 +34,7 @@ require_once "./templates/header-autres.php";
             <p><strong>Onlineshop</strong></p>
         </div>
         <div class="company">
-            <p>Projet formation Laravel (en cours de développement)</p>
+            <p>Projet formation Laravel</p>
             <p class="italique">Cours Udemy : "Laravel 10 & 9 : Devenez maitre avec 50 heures de projets"</p>
         </div>
         <div class="job-description">
