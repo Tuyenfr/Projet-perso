@@ -18,7 +18,7 @@ require_once "./templates/header-autres.php";
         <div class="job-description">
             <br>
             <ul>
-                <li>PHP natif / Laravel<br>
+                <li>PHP natif / Laravel (AlpineJS, Tailwind CSS)<br>
                 <i>=> <a class="lien-diplome" href="./assets/OpenClassrooms-POO-PHP.pdf" target="_blank">Certificat OpenClassrooms POO PHP</a></i></li>
                 <li>MySQL, MariaDB, SQLite</li>
                 <li>HTML, CSS, Javascript</li>
@@ -179,24 +179,6 @@ require_once "./templates/header-autres.php";
             <ul class="liste-diplome">
                 <li>=> <a class="lien-diplome" href="./assets/ISO9001.pdf" target="_blank"><i>Diplôme Auditeur interne ISO 19011:2002</i></a></li>
             </ul>
-        </div>
-    </section>
-
-    <section class="section-competences">
-        <div class="date">
-            <p>Depuis 2021</p>
-        </div>
-        <div class="company">
-            <p><strong>Trésorière association sportive</strong></p>
-            <p class="italique">Suresnes Escalade</p>
-        </div>
-        <div class="job-description">
-            <br>
-            <ul>
-                <li>Suivi des recettes et dépenses</li>
-                <li>Coordination comptable</li>
-            </ul>
-
         </div>
     </section>
 

@@ -16,25 +16,25 @@
             <div class="container">
                 <div class="square1"></div>
                 <div class="square2">
-                    <p><a href="qui-suis-je.php">Qui suis-je ?</a></p>
+                    <p><a href="about.php">Qui suis-je ?</a></p>
                 </div>
                 <div class="square1"></div>
             </div>
 
             <div class="container">
                 <div class="square2">
-                    <p><a href="mon-parcours.php">Mon parcours</a></p>
+                    <p><a href="career.php">Mon parcours</a></p>
                 </div>
                 <div class="square1"></div>
                 <div class="square2">
-                    <p><a href="mes-competences.php">Mes compétences</a></p>
+                    <p><a href="skills.php">Mes compétences</a></p>
                 </div>
             </div>
 
             <div class="container">
                 <div class="square1"></div>
                 <div class="square2">
-                    <p><a href="mon-portfolio.php">Mon portfolio</a></p>
+                    <p><a href="portfolio.php">Mon portfolio</a></p>
                 </div>
                 <div class="square1"></div>
             </div>

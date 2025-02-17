@@ -19,9 +19,9 @@
                     <div class="square2-header">
                         <p><a class="police" <?php
                                                 $page = $_SERVER['PHP_SELF'];
-                                                if (basename($page) == "qui-suis-je.php") {
+                                                if (basename($page) == "about.php") {
                                                     echo "style='color: white'";
-                                                } ?> href="qui-suis-je.php">Qui suis-je ?</a></p>
+                                                } ?> href="about.php">Qui suis-je ?</a></p>
                     </div>
                     <div class="square1-header"></div>
                 </div>
@@ -30,17 +30,17 @@
                     <div class="square2-header">
                         <p><a class="police" <?php
                                                 $page = $_SERVER['PHP_SELF'];
-                                                if (basename($page) == "mon-parcours.php") {
+                                                if (basename($page) == "career.php") {
                                                     echo "style='color: white'";
-                                                } ?> href="mon-parcours.php">Mon parcours</a></p>
+                                                } ?> href="career.php">Mon parcours</a></p>
                     </div>
                     <div class="square1-header"></div>
                     <div class="square2-header">
                         <p><a class="police" <?php
                                                 $page = $_SERVER['PHP_SELF'];
-                                                if (basename($page) == "mes-competences.php") {
+                                                if (basename($page) == "skills.php") {
                                                     echo "style='color: white'";
-                                                } ?> href="mes-competences.php">Mes compétences</a></p>
+                                                } ?> href="skills.php">Mes compétences</a></p>
                     </div>
                 </div>
 
@@ -49,9 +49,9 @@
                     <div class="square2-header">
                         <p><a class="police" <?php
                                                 $page = $_SERVER['PHP_SELF'];
-                                                if (basename($page) == "mon-portfolio.php") {
+                                                if (basename($page) == "portfolio.php") {
                                                     echo "style='color: white'";
-                                                } ?> href="mon-portfolio.php">Mon portfolio</a></p>
+                                                } ?> href="portfolio.php">Mon portfolio</a></p>
                     </div>
                     <div class="square1-header"></div>
                 </div>
